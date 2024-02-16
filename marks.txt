@@ -1,3 +1,4 @@
 
 maths marks:100
-tamil marks=90
+tamil marks=80
+english marks=90
