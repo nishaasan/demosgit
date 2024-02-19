@@ -1,1 +1,3 @@
-english marks:100
+
+tamil marks=100
+english marks=90
