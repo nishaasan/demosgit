@@ -1,4 +1,0 @@
-
-maths marks:90
-tamil marks=100
-english marks=100
