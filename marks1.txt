@@ -1,2 +1,0 @@
-tanil marks=90
-english marks=100
